@@ -1,8 +1,8 @@
 menu:
     Blog: /
     Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weibo: http://weibo.com/appl
+    GitHub: https://github.com/solos
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -12,6 +12,8 @@ logo: /favicon.png
 # e.g disqus: seansun
 disqus:
 duoshuo: 
+    on: true
+    domain: solos
 
 # Analytics
 # google-analytics:
